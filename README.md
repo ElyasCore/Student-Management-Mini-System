@@ -15,6 +15,6 @@ Use a boolean state to control access to student-related operations
 Organize different tasks into separate methods
 Concepts Practiced
 
-Methods · Parameters · Return Values · void · Scanner Parameters · boolean · static variables · if/else · switch · while · for · Input Validation · Program State
+Methods · Parameters · Return Values · void · Scanner Parameters · boolean · static variables · if/else · switch · while · Input Validation · Program State
 
 Built as part of my Java learning journey to understand how methods can break a program into separate, reusable tasks and make the main program easier to organize.
