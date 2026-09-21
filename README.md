@@ -1,20 +1,20 @@
-## Student Management Mini System
+Student Management Mini System
 
-A simple Java console application for managing a student's basic information and grades.
+A simple Java console application for managing a student's basic information and grades through a menu-driven system.
 
-This project focuses on practicing Java methods, parameters, return values, validation, loops, and basic program state using boolean variables.
+This project introduces Java methods by separating tasks such as adding student data, displaying information, calculating the average, validating input, and checking the student's grade.
 
-### Features
+Features
+Add and store student information
+Display student details
+Enter and validate three student grades
+Calculate the student's average grade
+Determine the student's letter grade
+Validate age, grades, and menu choices
+Use a boolean state to control access to student-related operations
+Organize different tasks into separate methods
+Concepts Practiced
 
-* Add and store student information
-* Display student details
-* Calculate the student's average grade
-* Determine the student's letter grade
-* Validate student age, grades, and menu choices
-* Use a boolean state to control access to student-related operations
+Methods · Parameters · Return Values · void · Scanner Parameters · boolean · static variables · if/else · switch · while · for · Input Validation · Program State
 
-### Concepts Practiced
-
-`Methods` · `Parameters` · `Return Values` · `void` · `Scanner` · `boolean` · `static variables` · `if/else` · `switch` · `loops` · `input validation`
-
-Built as part of my Java learning journey to strengthen programming fundamentals and practice breaking a program into separate methods.
+Built as part of my Java learning journey to understand how methods can break a program into separate, reusable tasks and make the main program easier to organize.
